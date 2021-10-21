@@ -6,14 +6,15 @@
 I am an experienced embedded systems engineer with over 5 years of experience in various roles developing SOC based FPGA systems for academic and system-based companies.
 
 Specialties:
-•	Architectural simulation and analysis.
-•	Architecture and deployment of engineering methodologies.
-•	RTL design and implementation.
-•	Advanced verification methodologies.
-•	System- and chip-level verification.
-•	Development of FPGA-based prototypes.
-•	Evaluation, selection, and integration of 3rd-party IP cores and EDA tools.
-•	Development and maintenance of development environments using modern scripting and source code management tools.
+
+-   Architectural simulation and analysis.
+- 	Architecture and deployment of engineering methodologies.
+- 	RTL design and implementation.
+- 	Advanced verification methodologies.
+- 	System- and chip-level verification.
+- 	Development of FPGA-based prototypes.
+- 	Evaluation, selection, and integration of 3rd-party IP cores and EDA tools.
+- 	Development and maintenance of development environments using modern scripting and source code management tools.
 
 
 I would love to talk to you. If you find me interesting, view my profile on LinkedIn.
